@@ -1,1 +1,0 @@
-print('sgma chase')
