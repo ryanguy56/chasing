@@ -1,9 +1,3 @@
-#!/bin/bash
-
-echo "Pushing Chase down the stairs"
-
 git add .
 git commit -m "${1:-"Update"}"
 git push
-
-echo "Chase died of lukemia"
